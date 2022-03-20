@@ -16,7 +16,7 @@ $(document).ready(function(){
 */
 
 
-default const quotes = [
+export default let quotes = [
 	[
 		"The journey of a thousand miles begins with one step.",
 		"Lao Tzu"
@@ -16638,5 +16638,3 @@ default const quotes = [
 		"Alexander the Great"
 	],
 ]
-
-export default quotes;
