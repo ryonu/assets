@@ -16,7 +16,7 @@ $(document).ready(function(){
 */
 
 
-const quotes = [
+default const quotes = [
 	[
 		"The journey of a thousand miles begins with one step.",
 		"Lao Tzu"
@@ -16639,4 +16639,4 @@ const quotes = [
 	],
 ]
 
-export { quotes };
+export default quotes;
